@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+nav a{
+    text-align:center;
+    text-decoration: none;
+    color:white;
+    margin:23px;
+    float: left;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a:hover{
+    color:goldenrod;
+}
